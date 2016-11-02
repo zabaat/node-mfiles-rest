@@ -1,0 +1,22 @@
+{
+  "name": "node-mfiles-rest",
+  "version": "0.0.1",
+  "description": "start mfiles rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zabaat/node-mfiles-rest.git"
+  },
+  "keywords": [
+    "MFILES"
+  ],
+  "author": "M. Brett Ansite",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zabaat/node-mfiles-rest/issues"
+  },
+  "homepage": "https://github.com/zabaat/node-mfiles-rest#readme"
+}
